@@ -1,2 +1,2 @@
-# hellp-world
+# hello-world
 First attempt on creating a repository
